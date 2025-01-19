@@ -1,7 +1,13 @@
+import Demo  from "./Demo"
+
+
 function App() {
 
   return (
-    <h1>Hello React Using Vite</h1>
+    <>
+      <Demo />
+      <h1>Hello React Using Vite</h1>
+    </>
   )
 }
 
